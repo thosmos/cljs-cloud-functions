@@ -1,0 +1,11 @@
+{
+    "functions": {
+        "ignore": [
+          ".*",
+          "node_modules",
+          "src",
+          "*.lock",
+          "shadow-cljs.edn"
+        ]
+      }
+}
