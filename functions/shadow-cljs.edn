@@ -1,5 +1,5 @@
 {:source-paths ["src"]
  :builds       {:gcf {:target :node-library
                       :main gcf.core/main
-                      :output-to "gcf.js"
+                      :output-to "index.js"
                       :exports-var gcf.core/exports}}}

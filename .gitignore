@@ -65,5 +65,6 @@ node_modules/
 .env
 
 functions/.*
+functions/index.js
 functions/node_modules
 functions/yarn.lock
